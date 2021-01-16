@@ -6,7 +6,6 @@ This repository is for showing how Git and GitHub work
 making chnages for git rabse
 
 
-Making changes in ReadMe file from master
 ## Purpose
 
 
