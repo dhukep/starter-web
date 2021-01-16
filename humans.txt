@@ -8,8 +8,6 @@
 	hope oyu get success
 # THANKS
 
-    <name>
-
 #Rebase
 REbase example
 # TECHNOLOGY COLOPHON
