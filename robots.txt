@@ -1,3 +1,2 @@
 # robotstxt.org/
-Making changes in master at 13:38
 User-agent: *
