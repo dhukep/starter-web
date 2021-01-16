@@ -1,4 +1,3 @@
 
-Always test your software with a "worst-case scenario"
 Changing test.txt to understang rebase"n
  amount of sample data, to get an accurate sense of its performance in the real world.
