@@ -5,7 +5,8 @@ This repository is for showing how Git and GitHub work
 #Git rebase 
 making chnages for git rabse
 
-Making changes in readme file from Develop branch
+
+Making changes in ReadMe file from master
 ## Purpose
 
 
